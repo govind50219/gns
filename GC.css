@@ -2,15 +2,14 @@
 		display:inline;
 		overflow-y:auto;
 		overflow-x:hidden;
-		height:530px;
+		height:510px;
 		width:1240px;
 		margin:0px;
 		position:absolute;
 		left:290px;
-		top:125px;
+		top:135px;
 		font-size:110%;
 		font-weight:bold;
-		padding:10px;
 		}
 h1{
 	font-family:algerian, castellar,Courier New;
