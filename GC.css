@@ -1,6 +1,6 @@
 .main{
 		display:inline;
-		overflow:auto;
+		overflow-y:auto;
 		height:510px;
 		width:1240px;
 		margin:0px;
