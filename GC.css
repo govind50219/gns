@@ -1,0 +1,24 @@
+.main{
+		display:inline;
+		overflow-y:auto;
+		height:510px;
+		width:1240px;
+		margin:0px;
+		position:absolute;
+		left:290px;
+		top:135px;
+		font-size:110%;
+		font-weight:bold;
+		}
+h1{
+	font-family:algerian, castellar,Courier New;
+	text-transform:uppercase;
+	font-weight:bolder;
+	position:relative;
+	left:20px;
+	width:1200px;
+}
+#t1{
+		width:1000px;
+		text-align:center;
+	}
