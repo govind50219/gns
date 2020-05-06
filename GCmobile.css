@@ -1,0 +1,27 @@
+.main{
+		display:inline;
+		width:95%;
+		height:620px;
+		padding:15px;
+		font-size:80%;
+		position:absolute;
+		top:160px;
+		overflow:auto;
+		font-weight:bold;
+		}
+h1{
+	font-family:algerian,engravers MT, castellar,Courier New;
+	text-transform:uppercase;
+	font-weight:bolder;
+	text-align:center;
+}
+#t1{
+		text-align:center;
+		border-collapse:collapse;
+		font-size:70%;
+		width:95%;
+		}
+	td,th{
+		border:1px solid black;
+		}
+	}

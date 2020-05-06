@@ -1,0 +1,90 @@
+body{
+		margin:0px;
+		border-left:1px solid black;
+		}
+	header{
+		background-color:#990011;
+		color:#FCF6F5;
+		height:125px;
+		width:1530px;
+		margin:0px;
+		border-right:1px solid black;
+		}
+	#header2{
+		display:none;
+	}
+	#nav_bar{
+		border:1px solid black;
+		width:1531px;
+		height:34.8px;
+		position:absolute;
+		top:90px;
+		text-align:center;
+		border-collapse:collapse;
+		}
+	.nav_elements{
+		color:#FCF6F5;
+		font-size:20px;
+		width:20%;
+		}
+	.nav_ele{
+		color:#FCF6F5;
+		text-decoration:none;
+		}
+	#big{
+		display:inline;
+		position:absolute;
+		left:271px;
+		top:125px;
+		width:1259px;
+		margin:0px;
+		opacity:0.5;
+		border-right:2px solid black;
+		}
+	#small{
+		display:none;
+	}
+	#vid{
+		display:none;
+	}
+	
+	footer{
+		color:#FCF6F5;
+		background-color:#ae0f36;
+		text-align:center;
+		border:1px solid Black;
+		position:absolute;
+		top:655px;
+		left:0px;
+		height:40px;
+		width:1530px;
+		margin:0px;
+		}
+	.bar{
+		background-color:#ae0f36;
+		height:530px;
+		width:269px;
+		position:absolute;
+		top:125px;
+		left:0px;
+		border-left:1px solid black;
+		border-right:1px solid black;
+		margin:0px;
+	}
+	#bar{
+		width:271px;
+		text-align:center;
+		margin:0px;
+	}
+	#col{
+		height:25px;
+		border:1px solid black;
+		margin:0px;
+		font-size:16px;
+	}
+	#barmobile{
+		display:none:
+	}
+	#colmobile{
+		display:none;
+	}

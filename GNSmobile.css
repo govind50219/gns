@@ -1,0 +1,23 @@
+.main{
+		display:inline;
+		height:540px;
+		width:100%;
+		margin:20px;
+		position:absolute;
+		top:150px;
+		font-weight:bold;
+		text-align:center;
+		}
+h1{
+		font-size:150%;
+		margin-bottom:0px;
+		text-align:center;
+		font-family:algerian,engravers MT, castellar,Courier New;
+		text-transform:uppercase;
+		font-weight:bolder;
+		}
+ul{
+	position:relative;
+	left:60px;
+	text-align:initial;
+}
