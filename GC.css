@@ -2,7 +2,7 @@
 		display:inline;
 		overflow-y:auto;
 		overflow-x:hidden;
-		height:510px;
+		height:530px;
 		width:1240px;
 		margin:0px;
 		position:absolute;
@@ -10,6 +10,7 @@
 		top:125px;
 		font-size:110%;
 		font-weight:bold;
+		padding:10px;
 		}
 h1{
 	font-family:algerian, castellar,Courier New;
