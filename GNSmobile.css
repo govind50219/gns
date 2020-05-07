@@ -18,6 +18,7 @@ h1{
 		}
 ul{
 	position:relative;
+	width:70%;
 	left:60px;
 	text-align:initial;
 }
